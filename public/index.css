@@ -1,0 +1,93 @@
+  
+.mainHead{
+    text-shadow:0px 1px 2px rgb(103, 112, 81);
+    margin: 4rem;
+    text-align: center;
+    color: #ebebeb;
+}
+.headStyle{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    font-size: 4rem;
+}
+
+.Motor{
+    box-shadow: 0px 1px 5px rgb(81, 112, 81);
+    background-color: rgb(234, 252, 217);
+    padding: 1rem 1.5rem 1.5rem 1.5rem ;
+    text-align: center;   
+    margin: 10rem auto 6rem auto; 
+    width: max-content;
+    height: max-content;
+}
+.Motor p{
+    font-size: 2rem;
+}
+
+.MotorButton{
+
+    padding: 4px 10px 4px 10px;
+    width: max-content;
+    height: max-content;
+    font-size: 2rem;
+    font-weight: bold;
+    border-style: none;
+    border-radius:10px;
+    color: black;
+    background-color:#1cc5dc;
+    margin-bottom: 10px;
+}
+
+.info
+{
+    margin-left:100px ;
+}
+
+.manualControl{
+
+    text-align: center;
+    margin: 10rem auto 4rem auto; 
+    box-shadow: 0px 1px 5px rgb(81, 112, 81);
+    background-color: rgb(234, 252, 217);
+    padding: 1.5rem;
+    width: max-content;
+    height: max-content;
+}
+
+.manualControl p
+{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.slideDiv{
+
+        margin:1.5rem;
+}
+
+.saveButton{
+    font-size: 2rem;
+    font-weight: bold;
+    border-style: none;
+    border-radius:10px;
+    padding: 4px 10px 4px 10px;
+    width: max-content;
+    height: max-content;
+    color: black;
+    background-color:#1a508b;
+
+}
+
+.divMeter
+{
+    color: #c0fefc;
+    text-align: center;
+}
+
+.divMeter h3
+{
+    font-weight: bold;
+    
+}
+
